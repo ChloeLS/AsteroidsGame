@@ -42,7 +42,6 @@ Level 2
 
 Level 3 
 
-![Lv3](https://raw.githubusercontent.com/ChloeLS/AsteroidsGame/master/Level3Ast.png)
 
 Final level
 
@@ -51,7 +50,7 @@ Final level
 
 Winning Screen and Leaderboard 
 
-![WinLeaderboard](https://raw.githubusercontent.com/ChloeLS/AsteroidsGame/master/WinningAst.png)
+![WinLeaderboard](https://raw.githubusercontent.com/ChloeLS/AsteroidsGame/master/EndWinScreen.png)
 
 ## Authors
 
