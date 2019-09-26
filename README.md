@@ -42,6 +42,7 @@ Level 2
 
 Level 3 
 
+![Lv3](https://raw.githubusercontent.com/ChloeLS/AsteroidsGame/master/Level3_Ast.png)
 
 Final level
 
