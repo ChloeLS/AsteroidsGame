@@ -55,7 +55,7 @@ Winning Screen and Leaderboard
 
 ## Authors
 
-* **Chloe Skillman** - *Programming* [Github](https://github.com/ChloeLS)
+* **Chloe Skillman** - *Programming* [Github](https://github.com/skillc01)
                           [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
 ## Acknowledgments
